@@ -70,72 +70,72 @@ function canvas(){
   
   function files(index) {
     var data = `
-    imgs/frames00007.png
-    imgs/frames00010.png
-    imgs/frames00013.png
-    imgs/frames00016.png
-    imgs/frames00019.png
-    imgs/frames00022.png
-    imgs/frames00025.png
-    imgs/frames00028.png
-    imgs/frames00031.png
-    imgs/frames00034.png
-    imgs/frames00037.png
-    imgs/frames00040.png
-    imgs/frames00043.png
-    imgs/frames00046.png
-    imgs/frames00049.png
-    imgs/frames00052.png
-    imgs/frames00055.png
-    imgs/frames00058.png
-    imgs/frames00061.png
-    imgs/frames00064.png
-    imgs/frames00067.png
-    imgs/frames00070.png
-    imgs/frames00073.png
-    imgs/frames00076.png
-    imgs/frames00079.png
-    imgs/frames00082.png
-    imgs/frames00085.png
-    imgs/frames00088.png
-    imgs/frames00091.png
-    imgs/frames00094.png
-    imgs/frames00097.png
-    imgs/frames00100.png
-    imgs/frames00103.png
-    imgs/frames00106.png
-    imgs/frames00109.png
-    imgs/frames00112.png
-    imgs/frames00115.png
-    imgs/frames00118.png
-    imgs/frames00121.png
-    imgs/frames00124.png
-    imgs/frames00127.png
-    imgs/frames00130.png
-    imgs/frames00133.png
-    imgs/frames00136.png
-    imgs/frames00139.png
-    imgs/frames00142.png
-    imgs/frames00145.png
-    imgs/frames00148.png
-    imgs/frames00151.png
-    imgs/frames00154.png
-    imgs/frames00157.png
-    imgs/frames00160.png
-    imgs/frames00163.png
-    imgs/frames00166.png
-    imgs/frames00169.png
-    imgs/frames00172.png
-    imgs/frames00175.png
-    imgs/frames00178.png
-    imgs/frames00181.png
-    imgs/frames00184.png
-    imgs/frames00187.png
-    imgs/frames00190.png
-    imgs/frames00193.png
-    imgs/frames00196.png
-    imgs/frames00199.png
-    imgs/frames00202.png
+    frames00007.png
+    frames00010.png
+    frames00013.png
+    frames00016.png
+    frames00019.png
+    frames00022.png
+    frames00025.png
+    frames00028.png
+    frames00031.png
+    frames00034.png
+    frames00037.png
+    frames00040.png
+    frames00043.png
+    frames00046.png
+    frames00049.png
+    frames00052.png
+    frames00055.png
+   frames00058.png
+    frames00061.png
+    frames00064.png
+    frames00067.png
+    frames00070.png
+    frames00073.png
+    frames00076.png
+    frames00079.png
+    frames00082.png
+    frames00085.png
+    frames00088.png
+    frames00091.png
+    frames00094.png
+    frames00097.png
+    frames00100.png
+    frames00103.png
+    frames00106.png
+    frames00109.png
+    frames00112.png
+    frames00115.png
+    frames00118.png
+    frames00121.png
+    frames00124.png
+    frames00127.png
+    frames00130.png
+    frames00133.png
+    frames00136.png
+    frames00139.png
+    frames00142.png
+    frames00145.png
+    frames00148.png
+    frames00151.png
+    frames00154.png
+    frames00157.png
+    frames00160.png
+    frames00163.png
+    frames00166.png
+    frames00169.png
+    frames00172.png
+    frames00175.png
+    frames00178.png
+    frames00181.png
+    frames00184.png
+    frames00187.png
+    frames00190.png
+    frames00193.png
+    frames00196.png
+    frames00199.png
+    frames00202.png
    `;
     return data.split("\n")[index];
   }
@@ -246,73 +246,73 @@ function canvas1(){
   
   function files(index) {
     var data = `
-imgs/bridges00004.png
-imgs/bridges00007.png
-imgs/bridges00010.png
-imgs/bridges00013.png
-imgs/bridges00016.png
-imgs/bridges00019.png
-imgs/bridges00022.png
-imgs/bridges00025.png
-imgs/bridges00028.png
-imgs/bridges00031.png
-imgs/bridges00034.png
-imgs/bridges00037.png
-imgs/bridges00040.png
-imgs/bridges00043.png
-imgs/bridges00046.png
-imgs/bridges00049.png
-imgs/bridges00052.png
-imgs/bridges00055.png
-imgs/bridges00058.png
-imgs/bridges00061.png
-imgs/bridges00064.png
-imgs/bridges00067.png
-imgs/bridges00070.png
-imgs/bridges00073.png
-imgs/bridges00076.png
-imgs/bridges00079.png
-imgs/bridges00082.png
-imgs/bridges00085.png
-imgs/bridges00088.png
-imgs/bridges00091.png
-imgs/bridges00094.png
-imgs/bridges00097.png
-imgs/bridges00100.png
-imgs/bridges00103.png
-imgs/bridges00106.png
-imgs/bridges00109.png
-imgs/bridges00112.png
-imgs/bridges00115.png
-imgs/bridges00118.png
-imgs/bridges00121.png
-imgs/bridges00124.png
-imgs/bridges00127.png
-imgs/bridges00130.png
-imgs/bridges00133.png
-imgs/bridges00136.png
-imgs/bridges00139.png
-imgs/bridges00142.png
-imgs/bridges00145.png
-imgs/bridges00148.png
-imgs/bridges00151.png
-imgs/bridges00154.png
-imgs/bridges00157.png
-imgs/bridges00160.png
-imgs/bridges00163.png
-imgs/bridges00166.png
-imgs/bridges00169.png
-imgs/bridges00172.png
-imgs/bridges00175.png
-imgs/bridges00178.png
-imgs/bridges00181.png
-imgs/bridges00184.png
-imgs/bridges00187.png
-imgs/bridges00190.png
-imgs/bridges00193.png
-imgs/bridges00196.png
-imgs/bridges00199.png
-imgs/bridges00202.png`;
+bridges00004.png
+bridges00007.png
+bridges00010.png
+bridges00013.png
+bridges00016.png
+bridges00019.png
+bridges00022.png
+bridges00025.png
+bridges00028.png
+bridges00031.png
+bridges00034.png
+bridges00037.png
+bridges00040.png
+bridges00043.png
+bridges00046.png
+bridges00049.png
+bridges00052.png
+bridges00055.png
+bridges00058.png
+bridges00061.png
+bridges00064.png
+bridges00067.png
+bridges00070.png
+bridges00073.png
+bridges00076.png
+bridges00079.png
+bridges00082.png
+bridges00085.png
+bridges00088.png
+bridges00091.png
+bridges00094.png
+bridges00097.png
+bridges00100.png
+bridges00103.png
+bridges00106.png
+bridges00109.png
+bridges00112.png
+bridges00115.png
+bridges00118.png
+bridges00121.png
+bridges00124.png
+bridges00127.png
+bridges00130.png
+bridges00133.png
+bridges00136.png
+bridges00139.png
+bridges00142.png
+bridges00145.png
+bridges00148.png
+bridges00151.png
+bridges00154.png
+bridges00157.png
+bridges00160.png
+bridges00163.png
+bridges00166.png
+bridges00169.png
+bridges00172.png
+bridges00175.png
+bridges00178.png
+bridges00181.png
+bridges00184.png
+bridges00187.png
+bridges00190.png
+bridges00193.png
+bridges00196.png
+bridges00199.png
+bridges00202.png`;
     return data.split("\n")[index];
   }
   
